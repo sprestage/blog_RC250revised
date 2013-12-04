@@ -7,4 +7,9 @@ This exercise was a little more complicated, as it assumed some existing impleme
 The difference between this one and the original RailsCast#250 implementation of authentication is that this one makes sure to log the user in when they sign up for the first time.
 -sprestage 10/23/13.
 
+Critical Failures
+=======
+
+Tests fail.
+
 
